@@ -1,0 +1,50 @@
+body {
+    background-color: #88dfff;
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 43px;
+}
+
+h1 {
+    color: #808080;
+    text-align: center;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0066cc;
+    font-size: 50px;
+    font-family: 'Cinzel', serif;
+    
+  
+}
+
+h2 {
+     color: #006633;
+     text-align: left;
+     font-size: 35px;
+     font-family: 'Dosis', sans-serif;
+
+}
+
+
+p {
+   font-family: 'Crete Round', serif;
+    font-size: 22px;
+}
+a:link {
+    color: #0066cc;
+     text-decoration: none;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #884dff
+}
+
+a:active {
+    color: #88dfff;
+}
